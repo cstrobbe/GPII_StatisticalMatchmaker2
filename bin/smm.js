@@ -1,8 +1,9 @@
+#!/usr/bin/env node
+
 var fluid = require("universal"),
     kettle = fluid.registerNamespace("kettle");
 
 fluid.require("../lib/StatisticalMatchMaker.js", require);
-fluid.require("../lib/StatisticalMatchMakerData.js", require);
 
 kettle.config.makeConfigLoader({
     nodeEnv: kettle.config.getNodeEnv(),

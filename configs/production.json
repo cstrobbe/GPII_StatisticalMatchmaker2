@@ -1,5 +1,5 @@
 {
-    "typeName": "ruleBasedMatchMaker.production",
+    "typeName": "statisticalMatchMaker.production",
     "options": {
         "gradeNames": ["autoInit", "fluid.littleComponent"],
         "distributeOptions": {
