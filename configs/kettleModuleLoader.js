@@ -7,7 +7,7 @@ Licensed under the New BSD license. You may not use this file except in
 compliance with this License.
 
 You may obtain a copy of the License at
-https://github.com/gpii/kettle/LICENSE.txt
+https://github.com/GPII/kettle/blob/master/LICENSE.txt
 */
 
 // The purpose of this file is to be copied to a location for which the
